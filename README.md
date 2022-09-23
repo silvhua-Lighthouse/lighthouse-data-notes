@@ -8,6 +8,7 @@ This repository contains all of the notes taken by [Silvia](https://github.com/s
         * [Day 1](/unit01/day01/)
         * [2022-09-20](#2022-09-20-intro-to-python)
         * [2022-09-21 APIs](#2022-09-21-apis)
+        * [2022-09-22 Projects in Data Science](#projects-in-data-science)
 
 ### Tips
 
@@ -155,7 +156,7 @@ Simon Dawkins
 * Need to install additional modules/package to the same python package to make them run.
 * No need to use windows command line, powershell, Anaconda prompt, or git bash ever on Windows because can use Ubuntu.
 
-## Projects in Data Science
+## Purposes of most projects in Data Science
 * Benchmarking a new technique
 * New use-case for existing technique
 
@@ -196,3 +197,6 @@ Simon Dawkins
 * Conclusions
 
 [draw.io](draw.io) is a good resource for creating figures
+
+[Table of Contents](#table-of-contents)
+test line 2022-09-22
